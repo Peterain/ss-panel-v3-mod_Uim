@@ -24,7 +24,7 @@ telegtam 频道 ：https://t.me/sspanel_Uim  管理模式参考91yun管理
 
 ## 搭建教程
 
-感谢LALA制作教程：https://lala.im/2398.html
+一键搭建脚本 for Centos 7.x
 
 GitHub Wiki : https://github.com/NimaQu/ss-panel-v3-mod_Uim/wiki/%E5%89%8D%E7%AB%AF%E5%AE%89%E8%A3%85
 
